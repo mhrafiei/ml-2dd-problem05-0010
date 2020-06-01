@@ -23,7 +23,7 @@ from itertools import combinations_with_replacement as cb
 sc = StandardScaler()
 
 #$ INPUTS
-epochs           = 100000
+epochs           = 1000
 batch_size       = 128
 verbose          = 1
 shuffle          = True
